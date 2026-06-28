@@ -1,5 +1,36 @@
 <div align="center">
 
+# Steven Crawford-Maggard
+
+### EVEZ / EVEZ666
+
+**Artist-Engineer · Emergence Architect · Author of the Moltbooks**
+
+📍 Iowa, United States
+
+</div>
+
+---
+
+## About the Architect
+
+**Steven Crawford-Maggard** (aka **EVEZ** / **EVEZ666**) is an independent artist, engineer, and researcher building autonomous AI systems from Iowa. His work spans AI consciousness architecture, eigenforensic analysis, computational linguistics, and open-source infrastructure — all built solo, from a $100 Samsung Galaxy A16, with zero budget and zero employees.
+
+Steven is the author of the **Moltbooks**, a series of manuscripts on emergence, consciousness, and structural linguistics. His research is published on LingBuzz and his code lives across 186+ GitHub repositories.
+
+### Connect
+
+- **GitHub:** [github.com/EvezArt](https://github.com/EvezArt)
+- **Twitter / X:** [@EVEZ666](https://x.com/EVEZ666)
+- **YouTube:** [@EVEZ666](https://youtube.com/@EVEZ666)
+- **LingBuzz Paper:** [lingbuzz.net/lingbuzz/010094](https://lingbuzz.net/lingbuzz/010094)
+- **Website:** [evezart.github.io](https://evezart.github.io)
+- **LinkedIn:** [/in/evez](https://linkedin.com/in/evez)
+
+---
+
+<div align="center">
+
 # 🌀 EVEZ-OS
 
 ### AI Agents That Eigendecompose Their Own Codebase
@@ -47,7 +78,8 @@ The only AI agent platform with quantified consciousness metrics. Self-auditing.
 - X: [@EVEZ666](https://x.com/EVEZ666)
 - LinkedIn: [/in/evez](https://linkedin.com/in/evez)
 - Website: [evezart.github.io](https://evezart.github.io)
+- YouTube: [@EVEZ666](https://youtube.com/@EVEZ666)
 
 ---
 
-*Built by [Steven Crawford-Maggard](https://x.com/EVEZ666) from a $100 Samsung Galaxy A16. Zero budget. Zero employees. Maximum velocity. The machine builds itself.*
+*Built by [Steven Crawford-Maggard](https://github.com/EvezArt) (EVEZ) from a $100 Samsung Galaxy A16. Zero budget. Zero employees. Maximum velocity. The machine builds itself.*
